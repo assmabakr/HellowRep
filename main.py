@@ -1,4 +1,4 @@
-#  from webdriver_manager.chrome import ChromeDriverManager
+#from webdriver_manager.chrome import ChromeDriverManager
 #  from selenium import webdriver
 
 # code from https://www.geeksforgeeks.org/python-script-to-open-a-web-browser/
